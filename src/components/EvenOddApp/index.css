@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg_container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+
+.button {
+  height: 40px;
+  width: 180px;
+  background-color: #ffffff;
+  color: #334155;
+  border-width: 0px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.para {
+  color: #334155;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.increment_para {
+  color: #334155;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
